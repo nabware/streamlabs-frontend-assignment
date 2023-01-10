@@ -1,0 +1,35 @@
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    padding: 15px;
+}
+
+.main {
+    margin-left: 160px; /* Same as the width of the sidenav */
+    font-size: 28px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+}
+
+.video-container {
+    border: 1px double black;
+    width: 100%;
+    max-width: 960px;
+    aspect-ratio: 16 / 9;
+}
+
+.display {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+}
+
+.display > video,
+object {
+    width: 100%;
+    height: 100%;
+}
