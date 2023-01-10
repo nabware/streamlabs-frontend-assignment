@@ -1,5 +1,7 @@
 # Solution
 
+[![Watch the video](https://img.youtube.com/vi/s1ALEAo4ebc/default.jpg)](https://youtu.be/s1ALEAo4ebc)
+
 Start with basic layout. Be minimal to maintain readability.
 
 ## Todo
