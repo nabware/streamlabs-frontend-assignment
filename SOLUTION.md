@@ -45,8 +45,8 @@ Yes.
 
 ### Briefly explain your decisions to use tools, frameworks and libraries like React, Vue, etc.
 
-I chose SvelteKit because I'm used to it. It has no virtual DOM and built-in routing as compared to frameworks likes React. I tried to use minimal tools and therefore used no additional packages.
+I chose SvelteKit because I'm used to it. It has built-in routing and no virtual DOM as compared to frameworks like React. I tried to use minimal tools and therefore used no additional packages.
 
 ### Did you make certain assumptions and decisions around the UI/UX? Please elaborate on your reasonings.
 
-I started with a minimal UI with no styling. I planned to make it visually more appealing, but felt I ran out of time.
+I started with a minimal UI with no styling. I planned to make it visually more appealing and mobile ready, but felt I ran out of time.
