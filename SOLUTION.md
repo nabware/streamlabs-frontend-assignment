@@ -11,7 +11,8 @@ Start with basic layout. Be minimal to maintain readability.
 ## Todo
 
 - [x] Add skeleton layout
-- [ ] Add source add/remove functionality
+- [x] Add source add/remove
+- [ ] Add source show/hide on stream
 
 ## Sources
 
